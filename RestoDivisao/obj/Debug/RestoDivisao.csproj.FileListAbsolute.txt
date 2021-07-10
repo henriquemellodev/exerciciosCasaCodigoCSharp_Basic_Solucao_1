@@ -1,0 +1,10 @@
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\RestoDivisao\obj\Debug\RestoDivisao.csprojAssemblyReference.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\RestoDivisao\obj\Debug\RestoDivisao.frmRestoDeDivisao.resources
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\RestoDivisao\obj\Debug\RestoDivisao.Properties.Resources.resources
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\RestoDivisao\obj\Debug\RestoDivisao.csproj.GenerateResource.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\RestoDivisao\obj\Debug\RestoDivisao.csproj.CoreCompileInputs.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\RestoDivisao\bin\Debug\RestoDivisao.exe.config
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\RestoDivisao\bin\Debug\RestoDivisao.exe
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\RestoDivisao\bin\Debug\RestoDivisao.pdb
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\RestoDivisao\obj\Debug\RestoDivisao.exe
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\RestoDivisao\obj\Debug\RestoDivisao.pdb

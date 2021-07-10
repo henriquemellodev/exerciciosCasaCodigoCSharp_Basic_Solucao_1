@@ -1,0 +1,9 @@
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe.config
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.pdb
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Form1.resources
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Properties.Resources.resources
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.GenerateResource.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.exe
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.pdb

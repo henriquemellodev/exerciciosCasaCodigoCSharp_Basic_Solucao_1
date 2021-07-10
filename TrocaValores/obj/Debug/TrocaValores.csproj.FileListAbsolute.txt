@@ -1,0 +1,10 @@
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\TrocaValores\bin\Debug\TrocaValores.exe.config
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\TrocaValores\bin\Debug\TrocaValores.exe
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\TrocaValores\bin\Debug\TrocaValores.pdb
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\TrocaValores\obj\Debug\TrocaValores.frmTrocaDeValores.resources
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\TrocaValores\obj\Debug\TrocaValores.Properties.Resources.resources
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\TrocaValores\obj\Debug\TrocaValores.csproj.GenerateResource.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\TrocaValores\obj\Debug\TrocaValores.csproj.CoreCompileInputs.cache
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\TrocaValores\obj\Debug\TrocaValores.exe
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\TrocaValores\obj\Debug\TrocaValores.pdb
+C:\Users\henrique.serrao\source\repos\SolucaoCapitulo01\TrocaValores\obj\Debug\TrocaValores.csproj.AssemblyReference.cache
